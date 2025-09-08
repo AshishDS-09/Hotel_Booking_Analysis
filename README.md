@@ -45,10 +45,9 @@ The project includes:
 - 🌍 **Geographic Insights** (cancellations by customer origin)  
 - 🔎 **Key Drivers** (lead time, deposit type, etc.)
 
----
 
 📸 **Sample Screenshot:**  
-👉 ![Dashboard Screenshot](Visualization.png)  
+👉   ![Dashboard Screenshot](Visualization.png)  
 
 ---
 
